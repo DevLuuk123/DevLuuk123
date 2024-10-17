@@ -40,4 +40,4 @@ Soon there wil be more
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLuuk123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuuk123&layout=compact&theme=radical)
-
+[![github activity](https://github.com/DevLuuk123/DevLuuk123/workflows/Update%20README%20with%20recent%20activity/badge.svg)](https://github.com/jamesgeorge007/github-activity-readme)
