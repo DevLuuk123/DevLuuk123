@@ -7,7 +7,7 @@ I'm a 14-year-old developer passionate about web development, Discord bots, and 
 ## 🔭 What I’m working on:
 - 🚀 Developing my portofolio website for private
 - 💻 Building a personal website for my school as a thing soon public to be visited 
-- 🎮 Making discord bots in discord.js v13 **discord.js**
+- 🎮 Making discord bots in discord.js v14 **discord.js**
 
 ## 🌱 Currently learning:
 - 🧠 Expanding my knowledge in **JS** and backend technologies
