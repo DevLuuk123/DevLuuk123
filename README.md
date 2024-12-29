@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Luuk Klingens!
+# Hi there 👋, I'm Luuk K!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DevLuuk123&color=blue)
 
@@ -7,10 +7,10 @@ I'm a 14-year-old developer passionate about web development, Discord bots, and 
 ## 🔭 What I’m working on:
 - 🚀 Developing my portofolio website for private
 - 💻 Building a personal website for my school as a thing soon public to be visited 
-- 🎮 Making discord bots in discord.js v14 **discord.js**
+- 🎮 Making a twitch bot in **tmi.js**
 
 ## 🌱 Currently learning:
-- 🧠 Expanding my knowledge in **JS** and backend technologies
+- 🧠 Expanding my knowledge in **laravel** and backend technologies
 - 📈 Exploring **APIs** and integrating them into projects
 - 🛠️ Sharpening my **CSS** skills for better web design
 
@@ -29,7 +29,7 @@ Soon there wil be more
 
 
 ## 📫 Contact Me:
-- mail: info@luukklingens.nl 
+- mail: info@luukklingens.com 
 
 ## ⚡ Fun Facts About Me:
 - 🎮 I love gaming and experimenting with discord bots.
