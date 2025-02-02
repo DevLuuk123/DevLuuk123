@@ -29,7 +29,10 @@ Soon there wil be more
 
 
 ## 📫 Contact Me:
-- mail: info@luukklingens.com 
+- mail: info@luukklingens.com
+  <a href="https://discord.com/users/1281612709267374114/">
+    <img align="center" src="https://discord.c99.nl/widget/theme-4/1281612709267374114.png">
+</a>
 
 ## ⚡ Fun Facts About Me:
 - 🎮 I love gaming and experimenting with discord bots.
